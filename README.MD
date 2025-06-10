@@ -63,11 +63,11 @@ Tudo que desenvolvo é pensado com foco em **marketing institucional**, **perfor
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelimaweb3&show_icons=true&theme=dark&border_radius=10&count_private=true&hide=issues" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelimaweb3&layout=compact&langs_count=8&theme=dark&border_radius=10" alt="Linguagens Mais Usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelimaweb3&layout=compact&langs_count=8&theme=dark&border_radius=10" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelimaweb3&show_icons=true&theme=dark&border_radius=10&count_private=true&hide=issues" alt="Estatísticas GitHub" />
 </p>
 
 <p align="center">
