@@ -73,3 +73,7 @@ Tudo que desenvolvo é pensado com foco em **marketing institucional**, **perfor
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=guilhermelimaweb3&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
+
+<!-- GitHub Metrics (completo e animado) -->
+<img src="https://github-metrics.vercel.app/api?username=guilhermelimaweb3&template=classic&base.header=true&base.activity=true&base.repositories=true&base.metadata=true&config.timezone=America%2FSao_Paulo" />
+
