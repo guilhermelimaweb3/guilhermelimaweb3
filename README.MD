@@ -74,23 +74,3 @@ Tudo que desenvolvo é pensado com foco em **marketing institucional**, **perfor
   <img src="https://streak-stats.demolab.com?user=guilhermelimaweb3&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
-## 📊 Painel Analítico 🔍
-
-<p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=guilhermelimaweb3&template=classic&config.timezone=America%2FSao_Paulo" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelimaweb3&layout=compact&langs_count=6&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=guilhermelimaweb3&theme=dark" />
-</p>
-
-<p align="center">
-  <a href="https://star-history.com/#guilhermelimaweb3/firewallet&Date">
-    <img src="https://api.star-history.com/svg?repos=guilhermelimaweb3/firewallet&type=Date" alt="Histórico de estrelas do FireWallet" />
-  </a>
-</p>
-
