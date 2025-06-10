@@ -49,24 +49,6 @@ Tudo que desenvolvo é pensado com foco em **marketing institucional**, **perfor
 ⚙️ Criptografia real: SECP256k1 + SHA256 + RIPEMD160
 🚫 Zero REST, zero rede, 100% auditável
 ```
-
----
-
-## 🖼️ Preview
-
-<p align="center">
-  <img src="./A_GitHub_profile_README_image_features_Guilherme_L.png" width="800px" alt="Banner institucional Fire Wallet CLI e Guilherme Lima" />
-</p>
-
----
-
-## 📈 Métricas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelimaweb3&show_icons=true&theme=radical&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelimaweb3&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 🌍 Contato
