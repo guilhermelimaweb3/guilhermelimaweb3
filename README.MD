@@ -47,7 +47,7 @@ Tudo que desenvolvo é pensado com foco em **marketing institucional**, **perfor
 🧠 Geração determinística com fingerprint visual
 🔐 Endereço institucional com prefixo binário [0x15, 0x67]
 ⚙️ Criptografia real: SECP256k1 + SHA256 + RIPEMD160
-🚫 Zero REST, zero rede, 100% auditável.
+🚫 Zero REST, zero rede, 100% auditável
 ```
 ---
 
